@@ -1,4 +1,4 @@
-## Bem-vindo(a) 😁
+## Bem-vindo(a/e) 😁
 
  <div>
    <a href="https://github.com/juliaraina">
